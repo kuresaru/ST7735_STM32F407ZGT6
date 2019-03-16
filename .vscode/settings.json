@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32f4xx.h": "c",
+        "font.h": "c",
+        "common.h": "c"
+    }
+}
